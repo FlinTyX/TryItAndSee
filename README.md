@@ -1,1 +1,3 @@
-# TryItAndSee
+![logo](logo.png)
+
+### Get closer to perfection...
